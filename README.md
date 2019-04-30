@@ -6,6 +6,33 @@
 
 ## 近期任务
 到XJOI上做题，地址：http://115.236.49.52:83  
-从1-1开始做，定期检查  
+从1-1开始做，徐总教练会定期检查  
 友情提示：部分测试数据行末会有多余空白字符(比如空格)  
-由于初三同学未到齐，暂不授课，同学们可自发参加模拟赛  
+由于初三同学未到齐，暂不授课，建议同学们自发参加模拟赛
+
+## 比赛提醒
+比赛名称：VRt Contest 2019 (marathon)  
+比赛平台：CodeForces  
+开始时间：2019-04-30 17:00  
+http://codeforces.com/contests  
+  
+比赛名称：Educational Codeforces Round 64 (Rated for Div. 2)  
+比赛平台：CodeForces  
+开始时间：2019-05-01 22:35  
+http://codeforces.com/contests  
+  
+比赛名称：May Challenge 2019  
+比赛平台：CodeChef  
+开始时间：2019-05-03 17:30  
+https://www.codechef.com/MAY19?utm_source=contest_listing&utm_medium=link&utm_campaign=MAY19  
+  
+比赛名称：牛客练习赛45  
+比赛平台：NowCoder  
+开始时间：2019-05-03 19:00  
+https://www.nowcoder.com/acm/contest/847  
+  
+比赛名称：Forethought Future Cup - Final Round  
+比赛平台：CodeForces  
+开始时间：2019-05-05 01:05  
+http://codeforces.com/contests  
+  
