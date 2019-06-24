@@ -15,3 +15,13 @@ http://codeforces.com/contests
 比赛平台：CodeForces  
 开始时间：2019-06-26 22:35  
 http://codeforces.com/contests  
+
+比赛名称：Codeforces Round #571 (Div. 2)  
+比赛平台：CodeForces  
+开始时间：2019-06-28 16:05  
+http://codeforces.com/contests  
+ 
+比赛名称：牛客OI周赛11-提高组  
+比赛平台：NowCoder  
+开始时间：2019-06-28 18:00  
+https://ac.nowcoder.com/acm/contest/941?from=acm_calendar
