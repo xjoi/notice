@@ -6,16 +6,6 @@
 
 ## 比赛提醒
 
-比赛名称：AtCoder Beginner Contest 131  
-比赛平台：AtCoder  
-开始时间：2019-06-22 20:00  
-https://atcoder.jp/contests/abc131  
-
-比赛名称：June Cook-Off 2019  
-比赛平台：CodeChef  
-开始时间：2019-06-24 00:00  
-https://www.codechef.com/COOK107?utm_source=contest_listing&utm_medium=link&utm_campaign=COOK107  
-
 比赛名称：Codeforces Round #569 (Div. 3)  
 比赛平台：CodeForces  
 开始时间：2019-06-26 22:35  
