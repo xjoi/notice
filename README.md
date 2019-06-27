@@ -21,7 +21,7 @@ https://ac.nowcoder.com/acm/contest/941?from=acm_calendar
 开始时间：2019-06-29 08:00  
 https://ac.nowcoder.com/acm/contest/947?from=acm_calendar  
 
-比赛名称：X Round 2
+比赛名称：X Round 2  
 比赛平台：洛谷  
 开始时间：2019-06-29 08:00  
 https://www.luogu.org/contestnew/show/17688  
