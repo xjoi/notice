@@ -6,42 +6,43 @@
 
 ## 比赛提醒
 
-比赛名称：Codeforces Round #571 (Div. 2)  
+比赛提醒  
+比赛名称：SRM 762  
+比赛平台：TopCoder  
+开始时间：2019-07-03 19:00  
+https://www.topcoder.com/  
+ 
+比赛名称：July Challenge 2019  
+比赛平台：CodeChef  
+开始时间：2019-07-05 17:30  
+https://www.codechef.com/JULY19?utm_source=contest_listing&utm_medium=link&utm_campaign=JULY19  
+
+比赛名称：牛客练习赛49  
+比赛平台：NowCoder  
+开始时间：2019-07-05 19:00  
+https://ac.nowcoder.com/acm/contest/946?from=acm_calendar  
+
+比赛名称：Codeforces Round #572 (Div. 1)  
 比赛平台：CodeForces  
-开始时间：2019-06-28 16:05  
+开始时间：2019-07-05 23:05  
 http://codeforces.com/contests  
 
-比赛名称：牛客OI周赛11-提高组  
-比赛平台：NowCoder  
-开始时间：2019-06-28 18:00  
-https://ac.nowcoder.com/acm/contest/941?from=acm_calendar  
-
-比赛名称：牛客假日团队赛4  
-比赛平台：NowCoder  
-开始时间：2019-06-29 08:00  
-https://ac.nowcoder.com/acm/contest/947?from=acm_calendar  
-
-比赛名称：X Round 2  
-比赛平台：洛谷  
-开始时间：2019-06-29 08:00  
-https://www.luogu.org/contestnew/show/17688  
-
-比赛名称：Atcoder Beginer Contest132 
-比赛平台：Atcoder  
-开始时间：2019-06-29(周六) 20:00 - 2200  
-https://atcoder.jp/contests/abc132  
-
-比赛名称：June Lunchtime 2019  
-比赛平台：CodeChef  
-开始时间：2019-06-29 22:00  
-https://www.codechef.com/LTIME73?utm_source=contest_listing&utm_medium=link&utm_campaign=LTIME73  
-
-比赛名称：Keteki Power Match  
-比赛平台：CodeChef  
-开始时间：2019-06-30 22:30  
-https://www.codechef.com/KQ162019?utm_source=contest_listing&utm_medium=link&utm_campaign=KQ162019  
-
-比赛名称：Educational Codeforces Round 67 (Rated for Div. 2)  
+比赛名称：Codeforces Round #572 (Div. 2)  
 比赛平台：CodeForces  
-开始时间：2019-06-30 22:35  
+开始时间：2019-07-05 23:05  
 http://codeforces.com/contests  
+
+比赛名称：牛客假日团队赛5  
+比赛平台：NowCoder  
+开始时间：2019-07-06 08:00  
+https://ac.nowcoder.com/acm/contest/984?from=acm_calendar  
+
+比赛名称：&quot;华为杯&quot;中国矿业大学程序设计学科竞赛重现赛  
+比赛平台：NowCoder  
+开始时间：2019-07-06 14:00  
+https://ac.nowcoder.com/acm/contest/948?from=acm_calendar  
+
+比赛名称：牛客OI周赛11-普及组  
+比赛平台：NowCoder
+开始时间：2019-07-06 18:00
+https://ac.nowcoder.com/acm/contest/942?from=acm_calendar  
